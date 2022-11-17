@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcaronde, currently CTO at Prima Assicurazione
 - 👀 I’m interested in software development excellence, technical leadership, and data mesh
-- 📫 How to reach me 
+- 📫 How to reach me
 - peter.caron@prima.it
 
 <!---
